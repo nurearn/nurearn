@@ -1,0 +1,11 @@
+# robots.txt untuk nurearn
+# Website: https://nurearn.pages.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nurearn.pages.dev/sitemap.xml
+
+# Crawl delay (opsional, biar server gak kebanjiran request)
+Crawl-delay: 1
